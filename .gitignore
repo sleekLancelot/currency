@@ -1,0 +1,6 @@
+.history
+node_modules
+
+#ignore unused files
+ex.js
+public
